@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "copilot/",
+    ".opencode/",
+    ".copilot/"
+  ],
+  "promptDelete": false
+}
